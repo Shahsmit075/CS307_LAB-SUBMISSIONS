@@ -1,0 +1,1 @@
+Computer vision enables machines to interpret visual information. Object recognition algorithms can identify items in images. This technology is crucial for autonomous vehicles and robotics.

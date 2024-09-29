@@ -1,0 +1,1 @@
+Natural language processing (NLP) allows computers to understand human language. Machine learning techniques enhance NLP capabilities. This technology powers voice recognition systems and text summarization tools.
