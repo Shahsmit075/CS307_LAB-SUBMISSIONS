@@ -1,4 +1,4 @@
-# Group Name : LOFIQ
+# Group Name : LOGIQ
 
 ## Members :
 
